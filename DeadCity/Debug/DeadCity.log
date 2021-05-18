@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\lenovo\source\repos\DeadCity\main.cpp(6,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  DeadCity.vcxproj -> C:\Users\lenovo\source\repos\DeadCity\Debug\DeadCity.exe
